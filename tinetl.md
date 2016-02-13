@@ -1,6 +1,6 @@
 # Hot dog
 
 - Heat bun
-- Microwave hot dog
+- free-range hot dog
 - Add Ketchup
 - Enjoy
